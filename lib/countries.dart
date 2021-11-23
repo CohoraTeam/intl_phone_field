@@ -1028,8 +1028,8 @@ const List<Country> countries = [
     flag: "🇱🇺",
     code: "LU",
     dialCode: "352",
-    minLength: 9,
-    maxLength: 12,
+    minLength: 6,
+    maxLength: 9,
   ),
   Country(
     name: "Macao",
@@ -1125,7 +1125,7 @@ const List<Country> countries = [
     code: "MU",
     dialCode: "230",
     minLength: 7,
-    maxLength: 7,
+    maxLength: 8,
   ),
   Country(
     name: "Mayotte",
