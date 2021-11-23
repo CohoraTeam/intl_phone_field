@@ -1029,7 +1029,7 @@ const List<Country> countries = [
     code: "LU",
     dialCode: "352",
     minLength: 6,
-    maxLength: 9,
+    maxLength: 12,
   ),
   Country(
     name: "Macao",
