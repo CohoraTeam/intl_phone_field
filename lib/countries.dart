@@ -108,8 +108,8 @@ const List<Country> countries = [
     flag: "🇦🇺",
     code: "AU",
     dialCode: "61",
-    minLength: 15,
-    maxLength: 15,
+    minLength: 9,
+    maxLength: 9,
   ),
   Country(
     name: "Austria",
@@ -300,8 +300,8 @@ const List<Country> countries = [
     flag: "🇨🇲",
     code: "CM",
     dialCode: "237",
-    minLength: 8,
-    maxLength: 8,
+    minLength: 9,
+    maxLength: 9,
   ),
   Country(
     name: "Canada",
@@ -644,7 +644,7 @@ const List<Country> countries = [
     flag: "🇩🇪",
     code: "DE",
     dialCode: "49",
-    minLength: 13,
+    minLength: 9,
     maxLength: 13,
   ),
   Country(
